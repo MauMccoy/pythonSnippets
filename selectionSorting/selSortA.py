@@ -1,5 +1,8 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # This is a selection sort snippet for simple tasks in python...                #
+#   08/18/2020                                                                  #
+#                                                                               #
+#                                                                               #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 import sys
